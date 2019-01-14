@@ -1,0 +1,29 @@
+.Weather {
+    color: rgb(253, 255, 254);
+    width: 50%;
+    margin: 30px;
+    padding: 10px;
+}
+
+.Weather .Weather__Location .Location_detail {
+    font-size: 70px;
+}
+
+.Weather .Weather__Location .Location_country {
+    font-size: 30px;
+    font-weight: 200;
+}
+
+.Weather .Weather__Summary {
+    margin-top: 70px;
+    font-size: 30px;
+    font-weight: normal;
+    text-shadow: 1px 1px #7e7676;
+}
+
+.Weather .Weather__Temperature {
+    margin: 10px 10px 10px 0;
+    font-size: 100px;
+    font-weight: 300;
+    text-shadow: 1px 1px #7e7676;
+}
